@@ -47,8 +47,8 @@ The following modules are used in this project:
 - **Clone the Repository:**
 
 ```bash
-git clone https://github.com/void-sarthak/Football-Analysis.git
-cd football-analysis
+git clone https://github.com/sandeepgurjar21/Football_Analysis.git
+cd Football_Analysis
 ```
 
 - **Prepare Your Video:**
